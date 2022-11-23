@@ -45,3 +45,5 @@ function search(){
 
 document.getElementById(`searchSubmit`).addEventListener(`click`, search);
 //We want the user to be able to search from the bos and then the API generates 
+
+//Cool example 
